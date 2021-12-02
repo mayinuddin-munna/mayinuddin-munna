@@ -1,10 +1,10 @@
 ![Profile views](https://gpvc.arturio.dev/munnahosssain)  
 
-<h3 align="center"  display="flex">
+<h4 align="center"  display="flex">
   <img width="90" height="90" src="https://www.freeiconspng.com/uploads/skype-icon-3.png" />
   <img width="90" height="90" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />
-  <img width="90" height="80" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" />
-</h3>
+  <img width="90" height="90" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" />
+</h4>
 
 <h2 align="center">Hello 👋, I'm Munna Hossain</h2>
 <h3 align="center">I'm front-End Web Developer</h3>
