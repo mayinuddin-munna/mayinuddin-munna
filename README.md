@@ -1,4 +1,6 @@
 ![Web Developer](https://drive.google.com/file/d/1i3wB1qunCLKMiplTTwjapBOXSWtdv7K_/view?ts=61a86f6e)
+![Profile views](https://gpvc.arturio.dev/munnahosssain)  
+
 
 ### Hi there 👋, I'm Munna Hossain
 #### Web Developer
@@ -8,7 +10,7 @@ I have been developing website for more then 1 year. I'm Front End Web Developer
 
 Skills: REACT / JS /TS / HTML / CSS
 
-- 🔭 I’m currently working on Fiberr 
+###- 🔭 I’m currently working on Fiberr 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
@@ -20,6 +22,4 @@ Skills: REACT / JS /TS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true&count_private=true)  
 
-//![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=munnahosssain)  
 
-![Profile views](https://gpvc.arturio.dev/munnahosssain)  
