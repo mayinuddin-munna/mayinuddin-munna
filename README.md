@@ -3,7 +3,7 @@
 <h2 align="center">Hello 👋, I'm Munna Hossain</h2>
 <h3 align="center">I'm front-End Web Developer</h3>
 
-<h3 align="center">
+<h3 align="center" display="flex">
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
   <img src="https://4.bp.blogspot.com/-K3xPJlyU5mk/XGfNIFz6yyI/AAAAAAAAR80/A4JTnhu4ilUdnQ3TgtgE414oRw55owL8QCLcBGAs/s1600/HTML%2B5.png" />
 </h3>
