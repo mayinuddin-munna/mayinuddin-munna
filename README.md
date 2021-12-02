@@ -9,7 +9,7 @@
 <h2 align="center">Hello 👋, I'm Munna Hossain</h2>
 <h3 align="center">I'm front-End Web Developer</h3>
 
-<h6 align="center"  display="flex">
+<h6 align="center">
   <img width="80" height="70" src="https://www.jilldelosangeles.com/images/badge-html-5.png" />
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
   <img width="90" height="80" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
@@ -34,7 +34,7 @@ Skills: REACT / JavaScript /TypeScript / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)
 
-<p>
+<p align="center">
     ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain) 
 </p> 
 
