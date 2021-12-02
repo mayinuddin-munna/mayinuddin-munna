@@ -3,7 +3,7 @@
 <h2 align="center">Hello 👋, I'm Munna Hossain</h2>
 <h3 align="center">I'm front-End Web Developer</h3>
 
-<h6 align="center" display="flex">
+<h6 align="center" width="200" height="200" display="flex">
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
   <img src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-language-icon-by-vexels.png" />
