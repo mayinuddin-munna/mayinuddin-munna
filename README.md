@@ -4,7 +4,7 @@
 <h3 align="center">I'm front-End Web Developer</h3>
 
 <h6 align="center"  display="flex">
-  <img width="100" height="80" src="https://4.bp.blogspot.com/-K3xPJlyU5mk/XGfNIFz6yyI/AAAAAAAAR80/A4JTnhu4ilUdnQ3TgtgE414oRw55owL8QCLcBGAs/s1600/HTML%2B5.png" />
+  <img width="100" height="80" src="https://img.flaticon.com/icons/png/512/174/174854.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
   <img width="100" height="80" src="https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png" />
