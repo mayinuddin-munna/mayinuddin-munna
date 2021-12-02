@@ -37,7 +37,6 @@ I have been developing website for more then 1 year. I'm Front End Web Developer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)`#1589F0`
 
-<p align="center">
-    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain) 
-</p> 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain) 
+
 
