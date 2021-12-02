@@ -38,3 +38,4 @@ Skills: REACT / JavaScript /TypeScript / HTML / CSS
     ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain) 
 </p> 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
