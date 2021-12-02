@@ -9,7 +9,7 @@
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
   <img width="100" height="80" src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-language-icon-by-vexels.png" />
   
-  <img width="100" height="80" src="https://image.pngaaa.com/930/2507930-middle.png" />
+  <img width="100" height="80" ><i class="fab fa-react"></i></img>
   <img width="100" height="80" src="https://img.icons8.com/color/452/material-ui.png" />
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
