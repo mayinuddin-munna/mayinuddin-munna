@@ -28,14 +28,14 @@
 I have been developing website for more then 1 year. I'm Front End Web Developer. Technologies I use ReactJs. I create responsive website that are displayed on all devices desktop, tab and smartphone. Of course, before I being developing any webApp, Landing Page, Business website or E-commerce,I need to have a ready-made project layout(sketch) And i'm ready to do this for you, before we start developing your website, we will discuss all the details of your nice with you ,I'll conduct a survey of your competitors and make a list of there advantages and weaknesses. All this is necessary to give your customers somethings that your competitors do't provide, or to present or service. It is essential that your potential clients know about you. I'll create an advertising campaign for you in Google Adwords and Facebook!.
 
 
-### 🔭 I’m currently working on Fiberr 
-### 🌱 I’m currently learning JavaScript 
+<p style="color:#ff0000">🔭 I’m currently working on Fiberr </p>
+<p color="green">🌱 I’m currently learning JavaScript</p>
 ### 👯 I’m looking to collaborate on Github 
 ### 💬 Ask me about Web Development 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)`#1589F0`
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain)
 
