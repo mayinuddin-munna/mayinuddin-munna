@@ -27,8 +27,9 @@ Skills: REACT / JavaScript /TypeScript / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munnahosssain)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true&count_private=true)  
+<h4>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munnahosssain)](https://github.com/anuraghazra/github-readme-stats)
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true&count_private=true)  
+</h4>
 
 
