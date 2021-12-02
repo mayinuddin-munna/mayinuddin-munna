@@ -21,7 +21,7 @@
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
 </h6>
 
-<h4 align="center">
+<h4 align="center" style="color: green">
   Skills: <p color="red">HTML</p>  <p>CSS</p>  <p>JavaScript</p>  <p>TypeScript</p>  <p>REACT</p>  
 </h4>
  
