@@ -10,10 +10,10 @@ I have been developing website for more then 1 year. I'm Front End Web Developer
 
 Skills: REACT / JavaScript /TypeScript / HTML / CSS
 
-### 🔭 I’m currently working on Fiberr 
-## 🌱 I’m currently learning JavaScript 
-## 👯 I’m looking to collaborate on Github 
-## 💬 Ask me about Web Development 
+<h3 align="center"> 🔭 I’m currently working on Fiberr </h3>
+### 🌱 I’m currently learning JavaScript 
+### 👯 I’m looking to collaborate on Github 
+### 💬 Ask me about Web Development 
 
 
 
