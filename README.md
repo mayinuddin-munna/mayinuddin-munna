@@ -17,8 +17,8 @@
   <img width="100" height="80" src="https://i.ibb.co/qFGmcG7/download.png" />
   <img width="90" height="80" src="https://img.icons8.com/color/452/material-ui.png" />
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-  <img width="100" height="80" src="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png" />
-  <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
+  <img width="100" height="80" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" />
+  <img width="100" height="80" src="https://nodejs.org/static/images/logo.svg" />
 </h6>
 
 <h4 align="center" style="color: green">
