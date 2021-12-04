@@ -13,10 +13,12 @@
   <img width="80" height="70" src="https://www.jilldelosangeles.com/images/badge-html-5.png" />
   <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
   <img width="90" height="80" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
-  <img width="75" height="80" src="https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png" />
+  <img width="80" height="80" src="https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png" />
+  
+  <img width="90" height="80" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
   <img width="100" height="80" src="https://i.ibb.co/qFGmcG7/download.png" />
   <img width="90" height="80" src="https://img.icons8.com/color/452/material-ui.png" />
-  <img width="100" height="80" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
+  
   <img width="100" height="80" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" />
   <img width="100" height="80" src="https://nodejs.org/static/images/logo.svg" />
 </h6>
