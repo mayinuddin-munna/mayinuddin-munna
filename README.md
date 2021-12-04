@@ -7,7 +7,8 @@
 </h4>
 
 <h2 align="center">Hello 👋, I'm Munna Hossain</h2>
-<h3 align="center">I'm front-End Web Developer</h3>
+
+<p>I'm Front End Web Developer. Technologies I use ReactJs. I have been developing website for more then 1 year.  I create responsive website that are displayed on all devices desktop, tab and smartphone. Of course, before I being developing any webApp, Landing Page, Business website or E-commerce,I need to have a ready-made project layout(sketch) And i'm ready to do this for you, before we start developing your website, we will discuss all the details of your nice with you ,I'll conduct a survey of your competitors and make a list of there advantages and weaknesses. All this is necessary to give your customers somethings that your competitors do't provide, or to present or service. It is essential that your potential clients know about you. I'll create an advertising campaign for you in Google Adwords and Facebook!.</p>
 
 <h6 align="center">
   <img width="80" height="70" src="https://www.jilldelosangeles.com/images/badge-html-5.png" />
@@ -25,7 +26,7 @@
   Skills: <span style="color:yellow">HTML</span> <span>CSS</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span>
 </h4>
  
-I have been developing website for more then 1 year. I'm Front End Web Developer. Technologies I use ReactJs. I create responsive website that are displayed on all devices desktop, tab and smartphone. Of course, before I being developing any webApp, Landing Page, Business website or E-commerce,I need to have a ready-made project layout(sketch) And i'm ready to do this for you, before we start developing your website, we will discuss all the details of your nice with you ,I'll conduct a survey of your competitors and make a list of there advantages and weaknesses. All this is necessary to give your customers somethings that your competitors do't provide, or to present or service. It is essential that your potential clients know about you. I'll create an advertising campaign for you in Google Adwords and Facebook!.
+
 
 
 <p style="blue">🔭 I’m currently working on Fiberr </p>
