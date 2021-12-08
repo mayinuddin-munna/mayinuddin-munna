@@ -22,17 +22,18 @@
   <img width="100" height="80" src="https://nodejs.org/static/images/logo.svg" />
 </h6>
 
-<h4 align="center" style="color: green">
+<h4 align="right" >
   Skills: <span style="color:yellow">HTML</span> <span>CSS</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span>
+</h4>
 
-
+<p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)
 
 ![GitHub streak stats ](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain)
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
   
-</h4>
+</p>
 
