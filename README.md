@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/munnahosssain)  
 
 <h4 align="center"  display="flex">
-  <img width="90" height="90" src="https://www.freeiconspng.com/uploads/skype-icon-3.png" />
+  <img width="90" height="90" src="">https://www.freeiconspng.com/uploads/skype-icon-3.png</img>
   <img width="90" height="90" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />
   <img width="90" height="85" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" />
 </h4>
