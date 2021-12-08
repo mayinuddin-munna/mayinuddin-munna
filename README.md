@@ -30,5 +30,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)
 
-![GitHub streak stats align="center"](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain) 
+![GitHub streak stats ](align="center" https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain) 
 
