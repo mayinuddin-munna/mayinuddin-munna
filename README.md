@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-
 ![Profile views](https://gpvc.arturio.dev/munnahosssain)
 
 <h4 align="center"  display="flex">
