@@ -30,8 +30,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)
 
-![GitHub streak stats ](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain?align=center)
+![GitHub streak stats ](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain)
   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
   
-  </h4>
+</h4>
 
