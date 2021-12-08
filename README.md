@@ -25,20 +25,10 @@
 <h4 align="center" style="color: green">
   Skills: <span style="color:yellow">HTML</span> <span>CSS</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span>
 </h4>
- 
-
-
-
-<p style="blue">🔭 I’m currently working on Fiberr </p>
-<p color="green">🌱 I’m currently learning JavaScript</p>
-
-
-### 👯 I’m looking to collaborate on Github 
-### 💬 Ask me about Web Development 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain) 
+![GitHub streak stats align="center"](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain) 
 
