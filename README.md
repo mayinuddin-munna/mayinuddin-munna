@@ -26,17 +26,12 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnahosssain&show_icons=true)
-![GitHub streak stats ](https://github-readme-streak-stats.herokuapp.com/?user=munnahosssain)
-  
   
 </h4>
-//Skills: <span style="color:yellow">HTML</span> <span>CSS</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span>
+
 <p align="center">
   
-  
+  Skills: <span style="color:yellow">HTML</span> <span>CSS</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span>
 
-  
-  
-  
 </p>
 
