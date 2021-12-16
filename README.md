@@ -6,7 +6,7 @@
   <img width="90" height="85" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" />
 </h4>
 
-<h2 align="center">Hello 👋, I'm Munna Hossain</h2>
+<h2 align="center">Hello 👋, I'm Mayinuddin Munna</h2>
 
 <p>I'm Front End Web Developer. Technologies I use ReactJs. I have been developing website for more then 1 year.  I create responsive website that are displayed on all devices desktop. Of course, before I being developing any webApp, Landing Page, Business website or E-commerce,I need to have a ready-made project layout(PSD, figma, sketch) And i'm ready to do this for you, before i start developing your website, we will discuss all the details of your nice with you ,I'll conduct a survey of your competitors and make a list of there advantages and weaknesses. All this is necessary to give your customers somethings that your competitors do't provide, or to present or service. It is essential that your potential clients know about you. I'll create an advertising campaign for you in Google Adwords and Facebook!.</p>
 
