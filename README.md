@@ -8,7 +8,7 @@
 
 <h2 align="center">Hello 👋, I'm Mayinuddin Munna</h2>
 
-<p>I'm Front End Web Developer. Technologies I use ReactJs. I have been developing website for more then 1 year.  I create responsive website that are displayed on all devices desktop. Of course, before I being developing any webApp, Landing Page, Business website or E-commerce,I need to have a ready-made project layout(PSD, figma, sketch) And i'm ready to do this for you, before i start developing your website, we will discuss all the details of your nice with you ,I'll conduct a survey of your competitors and make a list of there advantages and weaknesses. All this is necessary to give your customers somethings that your competitors do't provide, or to present or service. It is essential that your potential clients know about you. I'll create an advertising campaign for you in Facebook!.</p>
+<p>I am an enthusiastic and creative front-end developer currently in the final year of my graduate program, and I am eager to kickstart a rewarding career in this field. With a strong passion for creating visually appealing and user-friendly websites, I am actively seeking new opportunities to apply and enhance my skills as a front-end developer. Currently, I am primarily focused on working with the React.js framework, which has allowed me to develop dynamic and interactive user interfaces.</p>
 <h1>Skills: </h1>
 <h6 align="center">
   <img width="60" height="54" src="https://www.jilldelosangeles.com/images/badge-html-5.png" />
