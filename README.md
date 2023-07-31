@@ -11,7 +11,7 @@
 <p>I am an enthusiastic and creative front-end developer currently in the final year of my graduate program, and I am eager to kickstart a rewarding career in this field. With a strong passion for creating visually appealing and user-friendly websites, I am actively seeking new opportunities to apply and enhance my skills as a front-end developer. Currently, I am primarily focused on working with the React.js framework, which has allowed me to develop dynamic and interactive user interfaces.</p>
 <h1>Skills: </h1>
 <h6 align="center">
-  <img width="60" height="54" src="https://www.jilldelosangeles.com/images/badge-html-5.png" />
+  <img width="60" height="54" src="https://mayinuddin-munna.web.app/assets/html5-ddd45f7d.png" />
   <img width="80" height="60" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
   <img width="70" height="60" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
   <img width="60" height="58" src="https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png" />
