@@ -10,17 +10,7 @@
 
 <p>I am an enthusiastic and creative Full Stack developer and I've completed B.Sc in CSE graduate program, and, I am eager to kickstart a rewarding career in this field. With a strong passion for creating visually appealing and user-friendly with MVC pattern websites. Currently, I am primarily focused on working with the React/Next.js framework, which has allowed me to develop dynamic and interactive user interfaces.</p>
 <h1>Skills: </h1>
-<h6 align="center">
-  <img width="60" height="54" src="https://mayinuddin-munna.web.app/assets/html5-ddd45f7d.png" />
-  <img width="80" height="60" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
-  <img width="70" height="60" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" />
-  <img width="60" height="58" src="https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png" />
-  <img width="60" height="58" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-  <img width="80" height="60" src="https://i.ibb.co/qFGmcG7/download.png" />
-  <img width="70" height="60" src="https://img.icons8.com/color/452/material-ui.png" />
-  <img width="80" height="60" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" />
-  <img width="80" height="60" src="https://nodejs.org/static/images/logo.svg" />
-</h6>
+
 
 <p align="center">
   
