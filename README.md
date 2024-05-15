@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mayinuddin-munna&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 <h4 align="center"  display="flex">
@@ -14,9 +14,6 @@
 </h4>
 
 <h2 align="center">Hello 👋, I'm Mayinuddin Munna</h2>
-
-<p>I am an enthusiastic and creative Full Stack developer and I've completed B.Sc in CSE graduate program, and, I am eager to kickstart a rewarding career in this field. With a strong passion for creating visually appealing and user-friendly with MVC pattern websites. Currently, I am primarily focused on working with the React/Next.js framework, which has allowed me to develop dynamic and interactive user interfaces.</p>
-<h4>Skills: </h4>
 
 <p>
    <span>HTML5</span> <span>CSS3</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span> <span>NextJs</span>  <span>react Native</span>
