@@ -17,8 +17,22 @@
 </h4>
 
 ## Technology
-<p>
-   <span style="border: 1px solid red;">HTML5</span> 
+<div align="center">
+   <div>
+     <img src="https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/83184e93-c2be-4d92-879a-30be937ef75b" alt="html" width="60" height="60">
+     <img src="https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/5b033f95-8b1c-4d6b-8e12-510f2d6fa797" alt="css" width="60" height="60">
+     <img src="https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/e347ecec-e77b-4ea1-9223-5585f0bbf2df" alt="scss" width="60" height="60">
+     <img src="https://th.bing.com/th/id/OIP.DAd4ProxJ7RhaQ6iJZxoSAHaHT?rs=1&pid=ImgDetMain" alt="tailwind" width="60" height="60">
+     <img src="https://commerceda.com/images/material-ui-logo.png" alt="material" width="60" height="60">
+   </div>
+  <div>
+     <img src="https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/e1c9ddcc-2335-4e44-98bd-36165432aa34" alt="JS" width="60" height="60">
+     <img src="https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/734f1b6a-3fdd-4fb2-83f1-d46a7d001e1d" alt="TS" width="60" height="60">
+     <img src="https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/738c8caf-8994-4f4e-98ac-cef4bc68b7c1" alt="Cpp" width="60" height="60">
+  </div>
+  <div>
+     <img src="https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/e1c9ddcc-2335-4e44-98bd-36165432aa34" alt="JS" width="60" height="60">
+  </div>
    <span style="border: 1px solid red;">CSS3</span> 
    <span style="border: 1px solid red;">JavaScript</span> 
    <span style="border: 1px solid red;">TypeScript</span> 
@@ -26,6 +40,6 @@
    <span style="border: 1px solid red;">NextJs</span> 
    <span style="border: 1px solid red;">React Native</span> 
    <span style="border: 1px solid red;">React Native</span>
-</p>
+</div>
 
 
