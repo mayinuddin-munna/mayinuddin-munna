@@ -8,7 +8,7 @@
 
 <h2 align="center">Hello 👋, I'm Mayinuddin Munna</h2>
 
-<p>I am an enthusiastic and creative front-end developer currently in the final year of my graduate program, and I am eager to kickstart a rewarding career in this field. With a strong passion for creating visually appealing and user-friendly websites, I am actively seeking new opportunities to apply and enhance my skills as a front-end developer. Currently, I am primarily focused on working with the React.js framework, which has allowed me to develop dynamic and interactive user interfaces.</p>
+<p>I am an enthusiastic and creative Full Stack developer and I've completed B.Sc in CSE graduate program, and, I am eager to kickstart a rewarding career in this field. With a strong passion for creating visually appealing and user-friendly with MVC pattern websites. Currently, I am primarily focused on working with the React/Next.js framework, which has allowed me to develop dynamic and interactive user interfaces.</p>
 <h1>Skills: </h1>
 <h6 align="center">
   <img width="60" height="54" src="https://mayinuddin-munna.web.app/assets/html5-ddd45f7d.png" />
