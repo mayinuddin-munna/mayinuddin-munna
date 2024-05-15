@@ -11,7 +11,7 @@
 <p>I am an enthusiastic and creative Full Stack developer and I've completed B.Sc in CSE graduate program, and, I am eager to kickstart a rewarding career in this field. With a strong passion for creating visually appealing and user-friendly with MVC pattern websites. Currently, I am primarily focused on working with the React/Next.js framework, which has allowed me to develop dynamic and interactive user interfaces.</p>
 <h1>Skills: </h1>
 
-<p align="center">
+<>
    <span style="color:yellow">HTML</span> <span>CSS</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span>
-</p>
+</>
 
