@@ -34,11 +34,14 @@
      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png" alt="React" width="75" height="60">
      <img src="https://miro.medium.com/max/1400/1*QY5S4senfFh-mIViSi5A_Q.png" alt="React Native" width="90" height="60">
      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mLVsIr7I--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/89/next-js-badge.png" alt="Next" width="70" height="60">
-     <img src="https://orchid.ganoksin.com/uploads/db0786/original/3X/a/1/a10062a5cbf99e1c1e246acaf3443a6631c01289.png](https://th.bing.com/th/id/OIP.tJQUmvaOM1f-tgzYnlPZ7AAAAA?w=284&h=284&rs=1&pid=ImgDetMain" alt="Vercel" width="60" height="60">
+     <img src="https://orchid.ganoksin.com/uploads/db0786/original/3X/a/1/a10062a5cbf99e1c1e246acaf3443a6631c01289.png" alt="Vercel" width="60" height="60">
   </div>
   <div>
      <img src="https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/3bf609d7-b6a8-48fd-9da7-9a86ff7194e9" alt="Node" width="60" height="60">
-     <img src="https://th.bing.com/th/id/OIP.1fZjQpkRMKTBGN_7H5YnFwHaGL?rs=1&pid=ImgDetMain](https://th.bing.com/th/id/R.e2631d187a35083344fa43502c85c2db?rik=r1J5YGmOq5KTwg&pid=ImgRaw&r=0](https://th.bing.com/th/id/OIP.1ji9NLQl3sOXktSoEYnt3wHaHa?rs=1&pid=ImgDetMain" alt="Express" width="60" height="60">
+     <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="Express" width="60" height="60">
+     <img src="https://2.bp.blogspot.com/-vmwdFyDi4-A/XHzst4aNkKI/AAAAAAAABrw/vaWNbn7c0Js0OIzvrtjj892c_geZeVqAwCLcBGAs/s1600/mongodb.jpg" alt="Mongodb" width="60" height="60">
+     <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose" width="60" height="60">
+     <img src="https://th.bing.com/th/id/OIP.FEvZIQaiXEQmH1Hv-36PYQHaEo?rs=1&pid=ImgDetMain" alt="MySQL" width="80" height="60">
   </div>
    
 </div>
