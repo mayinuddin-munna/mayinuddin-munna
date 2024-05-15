@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/mayinuddin-munna"><img width="60" height="60" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png"/ ></a>
   <a href="https://www.facebook.com/profile.php?id=100073611545089"><img width="60" height="55" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png"/></a>
 </h4>
-
+## Technology
 <p>
-   <span>HTML5</span> <span>CSS3</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span> <span>NextJs</span>  <span>react Native</span>
+   <span class="padding: 5px 10px">HTML5</span> <span>CSS3</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span> <span>NextJs</span> <span>React Native</span> <span>React Native</span>
 </p>
 
