@@ -17,6 +17,6 @@
 </h4>
 ## Technology
 <p>
-   <span padding= "5px 10px" border= "1px solid gray">HTML5</span> <span>CSS3</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span> <span>NextJs</span> <span>React Native</span> <span>React Native</span>
+   <span padding="5px 10px" border="1px solid gray">HTML5</span> <span>CSS3</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span> <span>NextJs</span> <span>React Native</span> <span>React Native</span>
 </p>
 
