@@ -18,6 +18,14 @@
 
 ## Technology
 <p>
-   <span padding="5px 10px" border="1px solid gray">HTML5</span> <span>CSS3</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span> <span>NextJs</span> <span>React Native</span> <span>React Native</span>
+   <span style="border: 1px solid red;">HTML5</span> 
+   <span style="border: 1px solid red;">CSS3</span> 
+   <span style="border: 1px solid red;">JavaScript</span> 
+   <span style="border: 1px solid red;">TypeScript</span> 
+   <span style="border: 1px solid red;">ReactJs</span> 
+   <span style="border: 1px solid red;">NextJs</span> 
+   <span style="border: 1px solid red;">React Native</span> 
+   <span style="border: 1px solid red;">React Native</span>
 </p>
+
 
