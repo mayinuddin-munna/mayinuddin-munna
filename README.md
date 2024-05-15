@@ -1,6 +1,11 @@
-![Profile views](https://gpvc.arturio.dev/mayinuddin-munna)
 ![image](https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/7d205d04-1eaf-477c-9a78-206788eb5439)
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 <h4 align="center"  display="flex">
   <a href="https://join.skype.com/invite/Q1ajR6vuVWYD"><img width="60" height="60" src="https://www.freeiconspng.com/uploads/skype-icon-3.png"/ ></a>
