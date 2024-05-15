@@ -1,3 +1,5 @@
+<h2>Hello 👋, <br/> I'm Mayinuddin Munna</h2>
+
 ![image](https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/7d205d04-1eaf-477c-9a78-206788eb5439)
 
 ## :chart_with_upwards_trend: Current Stats
@@ -13,7 +15,7 @@
   <a href="https://www.facebook.com/profile.php?id=100073611545089"><img width="60" height="55" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png"/></a>
 </h4>
 
-<h2 align="center">Hello 👋, I'm Mayinuddin Munna</h2>
+
 
 <p>
    <span>HTML5</span> <span>CSS3</span> <span>JavaScript</span> <span>TypeScript</span> <span>ReactJs</span> <span>NextJs</span>  <span>react Native</span>
