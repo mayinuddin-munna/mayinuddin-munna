@@ -1,6 +1,6 @@
 <h2>Hello 👋, <br/> I'm Mayinuddin Munna</h2>
 
-![image](https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/7d205d04-1eaf-477c-9a78-206788eb5439)
+![image]([https://github.com/mayinuddin-munna/mayinuddin-munna/assets/48505306/7d205d04-1eaf-477c-9a78-206788eb5439](https://lh3.googleusercontent.com/gg-dl/ABS2GSl6_XYbELa13UpuCsDfcejc2VNjoJeTtRGcrQAw8K2pV-NSQIvRdEMWe-tK6SERkbgNq0ftiP8oYVG8lafJR0kA7UZCLIg0a3wdAInzFgETCKLmxSfTw1mn_iDrQpB_nRL5KT85XXYrPYBFSRPoKQNwPE2KuTNMTqA5oj2o58J7Vw-6Mw=s1024-rj))
 
 ## :chart_with_upwards_trend: Current Stats
 
