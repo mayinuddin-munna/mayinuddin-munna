@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Mayinuddin%20Munna%20-%20DevOps%20Engineer&fontSize=30&fontColor=ffffff" />
 </p>
-
-<h1 align="center">🚀 Mayinuddin Munna</h1>
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" width="100%" />
+</p>
 <h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast | Full-Stack Background</h3>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm **Mayinuddin Munna**, a DevOps Engineer with a strong Full-Stack (MERN) background.  
+I'm **Mayinuddin Munna**, a DevOps Engineer with a strong Full-Stack background.  
 I build **scalable, secure, and production-ready infrastructures**.
 
 🔹 Passionate about automation & cloud  
