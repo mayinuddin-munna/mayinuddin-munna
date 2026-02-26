@@ -2,9 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Mayinuddin%20Munna%20-%20DevOps%20Engineer&fontSize=30&fontColor=ffffff" />
 </p>
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" width="100%" />
-</p>
+</p> -->
+
 <h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast | Full-Stack Background</h3>
 
 <p align="center">
@@ -109,9 +111,9 @@ I build **scalable, secure, and production-ready infrastructures**.
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mayinuddin-munna&theme=react&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mayinuddin-munna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayinuddin-munna&theme=react-dark" />
