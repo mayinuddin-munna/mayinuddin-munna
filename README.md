@@ -148,9 +148,9 @@ I build **scalable, secure, and production-ready infrastructures**.
 
 ## 🌍 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/mayinuddin-munna
-📧 Email: mayinuddin.munna@gmail.com
-🌐 Portfolio: mayinuddinmunna.vercel.app 
+💼 LinkedIn: linkedin.com/in/mayinuddin-munna <br/>
+📧 Email: mayinuddin.munna@gmail.com <br/>
+🌐 Portfolio: mayinuddinmunna.vercel.app <br/>
 
 ---
 
