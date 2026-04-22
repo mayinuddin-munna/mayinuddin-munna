@@ -115,9 +115,9 @@ I build **scalable, secure, and production-ready infrastructures**.
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mayinuddin-munna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayinuddin-munna&theme=react-dark" />
-</p>
+</p> -->
 
 ---
 
